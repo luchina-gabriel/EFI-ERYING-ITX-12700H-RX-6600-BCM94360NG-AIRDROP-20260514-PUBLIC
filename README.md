@@ -1,5 +1,7 @@
 # Hackintosh - Erying G660 ITX, Intel Core i7 12700H, AMD Radeon RX 6600 and BCM94360 with AirDrop - macOS Tahoe 26.5
 
+<img width="1988" height="1200" alt="Stats" src="https://github.com/user-attachments/assets/6fe3756f-53a9-4390-b61d-7f3fa47450e3" />
+
 # Basic Information
 
 **macOS**: macOS Tahoe (26.5)
